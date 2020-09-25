@@ -26,6 +26,6 @@ The project can be divided into three parts: data creation, data analysis and da
 DATA CREATION:
 For this I used a software called Octoparse to download data from Twitter. It becomes very easy to extract data using this software.Two datasets are created, one for each candidate.
 
-Please refer to the file raw.   for step-by-step procedure.
+Please refer to the file StepByStep.ipynb for step-by-step procedure.
 
 
