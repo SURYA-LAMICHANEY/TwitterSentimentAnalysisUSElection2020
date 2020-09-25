@@ -29,5 +29,3 @@ For this I used a software called Octoparse to download data from Twitter. It be
 Please refer to the file raw.   for step-by-step procedure.
 
 
-
-
