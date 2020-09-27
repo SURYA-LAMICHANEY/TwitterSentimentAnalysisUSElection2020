@@ -28,6 +28,6 @@ For this I used a software called Octoparse to download data from Twitter. It be
 
 Please refer to the file StepByStep.ipynb for step-by-step procedure.
 If the file does not load , please visit: https://nbviewer.jupyter.org/ , and 
-paste :
+paste : https://github.com/SURYA-LAMICHANEY/TwitterSentimentAnalysisUSElection2020/blob/master/StepByStep.ipynb in the field provided and click Go! 
 
 
